@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Node.js
 - Git
 - Gatsby CLI
-- youtube playlist data in ./src/data/
+- YouTube Playlist Data in ./src/data/ (get your Youtube Data [here](https://myaccount.google.com/u/0/yourdata/youtube?hl=en))
 
 ### Installing
 
